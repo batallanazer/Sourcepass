@@ -1,0 +1,12 @@
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\bin\Debug\net6.0\SourcePass.Repositories.deps.json
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\bin\Debug\net6.0\SourcePass.Repositories.dll
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\bin\Debug\net6.0\SourcePass.Repositories.pdb
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\SourcePass.Repositories.csproj.AssemblyReference.cache
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\SourcePass.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\SourcePass.Repositories.AssemblyInfoInputs.cache
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\SourcePass.Repositories.AssemblyInfo.cs
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\SourcePass.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\SourcePass.Repositories.dll
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\refint\SourcePass.Repositories.dll
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\SourcePass.Repositories.pdb
+C:\Users\Nazer\source\repos\SourcePass\SourcePass.Repositories\obj\Debug\net6.0\ref\SourcePass.Repositories.dll
